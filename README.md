@@ -10,17 +10,13 @@ This repository includes an anonymized `.xlsx` version of the workbook so the st
 
 ## Screenshots
 
-### Portfolio Instructions
+### Portfolio Dashboard
 
-![Portfolio workbook instructions](Excel_Financial_Tool_Instructions_Workflow.png)
+![Portfolio dashboard](Excel_Financial_Tool_Client_Dashboard.png)
 
 ### Daily Input Workflow
 
 ![Daily input workflow](Excel_Financial_Tool_Input_Workflow.png)
-
-### Portfolio Dashboard
-
-![Portfolio dashboard](Excel_Financial_Tool_Client_Dashboard.png)
 
 ### Ticker Performance Report
 
@@ -33,6 +29,10 @@ This repository includes an anonymized `.xlsx` version of the workbook so the st
 ### Closed Positions Report
 
 ![Closed positions report](Excel_Financial_Tool_Closed_Positions.png)
+
+### Portfolio Instructions
+
+![Portfolio workbook instructions](Excel_Financial_Tool_Instructions_Workflow.png)
 
 ## What It Shows
 
